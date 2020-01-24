@@ -4,7 +4,7 @@
 
 # AirCnC | Code & Coffee <br/>
 
-<img src="presentation.png" />
+<img src="frontend/src/assests/aircnc.png" />
 
 
 ## :rocket: Tecnologias usadas
